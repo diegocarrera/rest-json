@@ -1,10 +1,11 @@
-
-{ "Paises" : [ {"nombre"  : "Ecuador",     "bandera" :"ban1.png"} ,     {     "nombre"  : "Canadá",
-    "bandera" : "ban1.png"} ,
-
-  {"nombre" : "Rusia",
-   "bandera" : "ban1.png"} 
-  
-  ]
+{"results":[
+  {
+    "nombre": "ecuador",
+    "bandera" : "http://rest-js.herokuapp.com/ecuador.png"
+  },
+  {
+    "nombre": "brasil",
+    "bandera": "http://rest-js.herokuapp.com/brasil.png"
+  }
+]
 }
-  
