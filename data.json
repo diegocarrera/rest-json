@@ -1,11 +1,11 @@
 {"results":[
   {
     "nombre": "ecuador",
-    "bandera" : "http://rest-js.herokuapp.com/ecuador.png"
+    "bandera" : "ecuador.png"
   },
   {
     "nombre": "brasil",
-    "bandera": "http://rest-js.herokuapp.com/brasil.png"
+    "bandera": "brasil.png"
   }
 ]
 }
